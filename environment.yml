@@ -1,0 +1,10 @@
+name: demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.9
+  - fastapi
+  - uvicorn
+  - pydantic
+prefix: /Users/davidzhou/miniconda3/envs/demo
